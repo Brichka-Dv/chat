@@ -8,4 +8,4 @@ Add 'ensure Chat' into your server.cfg Remove all other chats in your resource f
 
 # rights 
 -discord : https://discord.gg/p8HRkBZjh2
-- github: https://github.com/Brichka 
+- github: https://github.com/Brichka-Dv 
